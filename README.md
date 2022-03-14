@@ -7,6 +7,6 @@ In addition, the simple-panel-models folder contains a paper with an OLS estimat
 
 To use the repository, you can download or clone the whole thing, or download individual files for a particular paper.
 
-Feel free to add data or papers by forking the repository and making changes. Alternatively, you can also email me.
+Feel free to add data or papers via pull requests or forking the repository and making changes. Alternatively, you can also email me.
 
 For a longer introduction, see [this introductory blog post at *The Political Methodologist*](https://polmeth.org/blog/open-collection-political-science-research-ols-models-and-cross-sectional-data).
